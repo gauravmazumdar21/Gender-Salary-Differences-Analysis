@@ -21,14 +21,29 @@ The Employee Salary Analysis project aims to explore and understand salary distr
 ## Observation
 - **Gender Distribution:**
 The company has a higher percentage of female employees (57%) compared to male employees (43%).
-![](Obseravtion%20Charts/Average_Salary.png)
+
+![](Obseravtion%20Charts/Numner_of_Employees.png)
+
 - **Salary Distribution:**
 Despite females being the majority, there are instances where males draw higher salaries.
 In three departments, females draw higher salaries, while in three other departments, males draw higher salaries.
 
+![](Obseravtion%20Charts/Number of Employee_in_each_department.png)
+
 - **Overall Salary Average:**
 The total average salary for male employees is higher than that for female employees.
+
+![](Obseravtion%20Charts/Average_salary_in_each_department.png)
 
 - **Salary Discrepancies:**
   - It's noteworthy that in the departments where females draw higher salaries, the number of male employees may be less, which could contribute to the higher average salary for males.
   - Conversely, in departments where males draw higher salaries, the larger number of female employees may not compensate for the higher individual male salaries.
+
+![](Obseravtion%20Charts/Average_Salary.png)
+
+## Contributor
+- **Gaurav Mazumdar**
+
+## License
+Free Analysis and dataset, Hell Yeah!
+
