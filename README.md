@@ -28,7 +28,7 @@ The company has a higher percentage of female employees (57%) compared to male e
 Despite females being the majority, there are instances where males draw higher salaries.
 In three departments, females draw higher salaries, while in three other departments, males draw higher salaries.
 
-![](Obseravtion%20Charts/Number of Employee_in_each_department.png)
+![](Obseravtion%20Charts/Number%20of%20Employee_in_each_department.png)
 
 - **Overall Salary Average:**
 The total average salary for male employees is higher than that for female employees.
